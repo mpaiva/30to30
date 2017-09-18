@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT1BRU1OT1BRVVlbVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADWUp1bWJvdHJvbtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4xODQzMTM3MjU1IDAuMjUwOTgwMzkyMiAwLjMxMzcyNTQ5MDIAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1TYKNzg5Ojs8JDxaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAAIAMI0BRQAAAAAAA0iwtPj9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM+QDFfEBBOU1BhcmFncmFwaFN0eWxl0gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKRklMokdIgA+AEKJKS4ARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BPgAAAAAAAXk9wZW5TYW5zLUxpZ2h00iwtUlNfEBNOU011dGFibGVEaWN0aW9uYXJ5o1JUMVxOU0RpY3Rpb25hcnnSLC1WV18QEE5TRm9udERlc2NyaXB0b3KiWDFfEBBOU0ZvbnREZXNjcmlwdG9y0iwtVFqiVDHSLC1cXV8QEk5TQXR0cmlidXRlZFN0cmluZ6JeMV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFhYlRyb290gAEACAARABoAIwAtADIANwBRAFcAXgBnAG4AewB9AH8AgQCLAJIAmgClAKkAqwCtAK8AswC1ALcAuQC7AMMA1gD4AQEBBwEUASkBUwFVAVcBWQFeAWMBZQFnAWwBdwGAAY0BkAGdAaYBqwGzAbYBwQHMAd4CAAISAhQCFgIfAiQCPgJCAlUCWgJ3AnkCewKCAoUChwKJAowCjgKQApICqAK+AscC1gLbAvEC9QMCAwcDGgMdAzADNQM4Az0DUgNVA2oDfAN/A4QAAAAAAAACAQAAAAAAAABjAAAAAAAAAAAAAAAAAAADhg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "DCA3CADE-B9ED-4D21-8D45-18B09DE5D195",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 69,
+    "width": 600,
+    "x": 18,
+    "y": 40
+  },
+  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Example",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "F36A915A-215F-4A9C-9DDE-186C7ECF790F"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.library/sync": {
+      "style": {
+        "colorAlpha": 1,
+        "colorHex": "#2F4050",
+        "fontPostscriptName": "OpenSans-Light",
+        "fontSize": 63,
+        "lineHeight": 69,
+        "text": "Jumbotron"
+      }
+    }
+  }
+}

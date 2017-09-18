@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PklMT1NaXmJlZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA11JbnB1dCBTeW1ib2xz0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQAdIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPgAAAAAAAF8QEkhlbHZldGljYU5ldWUtQm9sZNI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y1j9AQUJDCkRFIkVHSF8QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXxASTlNXcml0aW5nRGlyZWN0aW9uXE5TVGV4dEJsb2Nrc18QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb24jQCYAAAAAAACAEoASIz+pmZmgAAAAgBTSEgpKS6CAE9I0NU1OV05TQXJyYXmiTTnSNDVQUV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1BSOV8QEE5TUGFyYWdyYXBoU3R5bGXUVFVWClciWFlVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4xODQzMTM3MjU1IDAuMjUwOTgwMzkyMiAwLjMxMzcyNTQ5MDIAgBaAGNJbClxdVE5TSUQQAYAX0jQ1X2BcTlNDb2xvclNwYWNlomE5XE5TQ29sb3JTcGFjZdI0NWNkV05TQ29sb3KiYznSNDU4ZqI4OdI0NWhpXxASTlNBdHRyaWJ1dGVkU3RyaW5nomo5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W1uVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJMAmgCiAK0AsgC0ALYAuAC6AL8AwQDDAMUAxwDJAPQBFgEpATEBMwE4AVUBVwFZAWABYwFlAWcBagFsAW4BcAGGAZwBpQG6Ab8BygHTAekB7QH6AgMCCAIbAh4CMQI+AlMCXgJzAoACogKrAq0CrwK4AroCvwLAAsICxwLPAtIC1wLxAvUDCAMRAxcDJAM5A2MDZQNnA2wDcQNzA3UDegOHA4oDlwOcA6QDpwOsA68DtAPJA8wD4QPzA/YD+wAAAAAAAAIBAAAAAAAAAG8AAAAAAAAAAAAAAAAAAAP9"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1BCDDDA5-7F37-4DAA-8CC0-C38842474DEC",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 249,
+    "x": 1099,
+    "y": -67
+  },
+  "glyphBounds": "{{0, 0}, {248, 29}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Input Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "01EC9945-ADF6-4E93-9C51-9218C4558545"
+  },
+  "textBehaviour": 0
+}

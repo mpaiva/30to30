@@ -1,0 +1,100 @@
+{
+  "_class": "page",
+  "do_objectID": "9E67D658-C932-4088-B269-FD391A4A728A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "1B3A0793-23FE-46F1-BE54-7E7579815396"
+    },
+    {
+      "class": "artboard",
+      "id": "F5C74194-5521-48C6-A19C-585DC9D92D46"
+    },
+    {
+      "class": "artboard",
+      "id": "8A6E6EF7-9D17-4325-8798-D709BBB07BD8"
+    },
+    {
+      "class": "artboard",
+      "id": "05CA9952-03FF-4286-971B-750063BFC073"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 312,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "-Templates",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.silverflows.osx.silver": {
+      "componentInfo": {
+        "name": "-Templates"
+      },
+      "componentType": "Flow",
+      "version": 1
+    },
+    "com.silverflows.osx.silver.updated": {
+      "05CA9952-03FF-4286-971B-750063BFC073": 1481183304,
+      "1B3A0793-23FE-46F1-BE54-7E7579815396": 1481183441,
+      "8A6E6EF7-9D17-4325-8798-D709BBB07BD8": 1481183675,
+      "F5C74194-5521-48C6-A19C-585DC9D92D46": 1481183304
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D8705EED-9F17-410F-A935-F3582572CCF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 163,
+    "width": 300,
+    "x": 2187,
+    "y": 910
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "textarea/label-top",
+  "nameIsFixed": true,
+  "overrides": {
+    "595B4D9E-4B27-4C59-BDF5-A1C2671CD497": {
+      "symbolID": ""
+    },
+    "74C75CD5-E5AE-4EDC-89B1-CFA5ACA1E16E": "Textarea",
+    "E44AD543-3354-41B3-88BF-7FA05372D52C": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B0FA0F14-56E9-4E72-B57C-95ED9549D02C",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "56A1E4A3-087B-4519-A499-4AF0F90499D6",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

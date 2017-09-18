@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E9AC8535-C607-4D1E-83B9-3994B3C58D6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 500,
+    "x": 1108,
+    "y": 94
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "forms/input+labels/label-side copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "162FAE6B-DD78-4C58-9D49-1A87E2FD6C46": {
+      "symbolID": "F1DC2F1E-7A8A-4757-B26B-A09EF75BA4D5"
+    },
+    "FD0E08BD-5E81-4DD3-A2B3-A080A08A75C9": {
+      "symbolID": "61A3984F-8B25-41BE-AEDA-4AB0D351F7F5"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0CE32EC6-F123-4E87-A790-39C250EF7DB6",
+  "verticalSpacing": 0
+}

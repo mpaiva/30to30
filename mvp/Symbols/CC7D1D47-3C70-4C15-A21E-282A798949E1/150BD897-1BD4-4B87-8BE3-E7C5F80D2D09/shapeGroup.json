@@ -1,0 +1,46 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "150BD897-1BD4-4B87-8BE3-E7C5F80D2D09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 163,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EC3088B2-38F4-4770-8A7F-A79EA68C9475"
+    }
+  ],
+  "name": "forms/select/list-bg",
+  "nameIsFixed": true,
+  "originalObjectID": "150BD897-1BD4-4B87-8BE3-E7C5F80D2D09",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2F5A0DDA-09BF-4F11-B087-E8E60B7B98CC"
+  },
+  "windingRule": 1
+}

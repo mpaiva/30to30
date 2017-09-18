@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5E825F33-0782-40E9-8C14-DA11E3308FB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 500,
+    "x": 1107,
+    "y": 394
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "forms/input-label-side",
+  "nameIsFixed": true,
+  "overrides": {
+    "2ECC6630-02DE-4B88-BF1D-CACBC880556D": {
+      "symbolID": "919D7A33-3611-4185-80E4-D06A5E77E6FA"
+    },
+    "560F067A-F12F-4000-80E9-757864888214": {
+    },
+    "6329A597-6CC6-4AEA-9CF5-31EEEF887195": {
+      "symbolID": "474C24FE-1FD4-4074-9160-BD36B22D40E8"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "342A9F2A-A18B-43A6-9057-7DD34FE05D4A",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "996DB38F-0749-4899-B709-4ED1CB7DD3A6",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

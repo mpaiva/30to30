@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "CF4773F8-63DE-4437-AC12-22243A47DC19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 10,
+    "x": 82,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "916F1096-16D3-454B-9D8A-7C6617F43EBD"
+    }
+  ],
+  "name": "fa-caret-down",
+  "nameIsFixed": false,
+  "originalObjectID": "CF4773F8-63DE-4437-AC12-22243A47DC19",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

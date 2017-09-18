@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "082EB439-E79C-4166-9326-CAAD79EF89F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1300,
+    "width": 376,
+    "x": 2042,
+    "y": 3645
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7BB8D71B-A149-49B0-84B1-AB7B376294E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA250757-49CD-4880-89F9-CB30254D5CF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8CFB3D9-D747-40AD-A6D3-A9D9A200CFDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2124025-4460-4621-9E47-9B49375E1BED"
+    }
+  ],
+  "name": "layout/phone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "C4D4FB8C-E060-4540-AD0B-C1400F28610A",
+        "version": 1
+      }
+    }
+  }
+}

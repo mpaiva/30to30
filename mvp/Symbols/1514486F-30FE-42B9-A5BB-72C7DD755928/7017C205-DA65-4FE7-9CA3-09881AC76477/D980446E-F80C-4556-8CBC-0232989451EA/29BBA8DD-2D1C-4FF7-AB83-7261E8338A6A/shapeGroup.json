@@ -1,0 +1,195 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "29BBA8DD-2D1C-4FF7-AB83-7261E8338A6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 34,
+    "width": 34,
+    "x": 280,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "4FF2BA0F-9132-46B2-ABEF-1DED46C91F93"
+    }
+  ],
+  "name": "vh-oval",
+  "nameIsFixed": true,
+  "originalObjectID": "C25C3931-B180-45D6-A713-D18D5BA26C3D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.158798252564131,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.5
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8705882352941177,
+          "green": 0.8549019607843137,
+          "red": 0.8196078431372549
+        },
+        "fillType": 4,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 1,
+          "from": "{0.0025781251024454832, 0.49750000238418579}",
+          "gradientType": 0,
+          "shouldSmoothenOpacity": false,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4588235294117647,
+                "green": 0.8117647058823529,
+                "red": 0.6823529411764706
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6392156862745096,
+                "green": 0.7372549019607844,
+                "red": 0.4235294117647059
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1.0125781297683716, 0.49750000238418579}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/4360b964c0eea9a9ad28ca8315bc5523268482df",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "0A9B596C-DA52-4BB2-BDC3-436C5973A044",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw-mglyHGdTc5AB18hN9TXNcu4rrPSpKeFfadEcxd4p2q2sllWAxq9eiU",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKAkWGOr_RazvOeOy24JQ-AGCNw4AM5IUUP53_p-d6Q301n684DDdV4Hs",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdaiHFm9YshHuyJ0tnrMRc2GnS_4WWJPxFPB7XfvQWTC-NQ4odnrC24opO",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8Ppm9j9ii7_Cq_4BJVsyWxXtDrWID_elbtHkm-htprOqqVuXb1JuTX11I",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-HHCrxczPRoRJE_wj4IK3IUjFaiJtZoV4kdKEhpnLBOQz0M7X9GByMu8",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFWEG0P528eCtpk89fN6Ar6fVlfDP0go-po7vZ4glkbEeKrneeAuMGE20",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJfCPICR30NLgZsxStUDvfHSpWcSnojG-BgD1zQkTGcoLnVke5IMN8",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxqVC1W-n9P1vIIx7bjAO-hvH68P5SzOD7NXh7cx5dzZ4t8qLYlZqCcyVB",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1SXlWNcDaPZuz3j_Ol9ZAfThVtM9Elqbv3cfn8q9j2X3dOi6zbyzhXBDz",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMvtMPjH3ced619gB2nYZ_E8tSCt7MCh6UOD6MB8judAsLElpOliWxheA",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZAvrJ18maC3O30DKkAd2z644vpOT9NQqUOvajX9aZkFBQuhphIWSNyLdB",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIroR3IwRUKerotCZfpDMg0FG_jn5VGMT4c2msevtaeTPIg_UA9Xm4MU",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjkV9o3pl0Dw9HTOxKrOUMD3zEl63Pcyrsa5_bPOTn_4uVcjcEfYv50sSC",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYXrfIUMWHWr-36KHfZRhGo_X6r72R1oCpdFqE9TycUvdqCrsbusOmWuw",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "windingRule": 1
+}

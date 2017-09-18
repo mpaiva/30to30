@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BBD4EFF4-4D25-4A65-B753-830B343241FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1300,
+    "width": 70,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "37DBA47D-9B36-4990-98C6-88EA79C93C70"
+    },
+    {
+      "class": "group",
+      "id": "B0645B78-3EFE-4D7C-ABDE-6F5FE06A7049"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BB7430F-9DCF-4AFF-8F79-554907493183"
+    }
+  ],
+  "name": "sidenav/mini-menu copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "A1720F7E-F586-4DCB-84A5-A4F1AAC61BD9",
+        "version": 1
+      }
+    }
+  }
+}

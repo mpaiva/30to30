@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "4F961AF0-0DF7-490D-9575-BC4391A72AF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1300,
+    "width": 988,
+    "x": -113,
+    "y": 3645
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A62D899C-5D21-4602-A93B-BAD8CC7CB1A4"
+    },
+    {
+      "class": "group",
+      "id": "6B135CB9-3787-46B3-9F6C-141F98B894F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0351B30C-43D6-4E9B-93D7-B1064712D0AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95A6B45B-1527-4F76-AC55-68C819C3E365"
+    }
+  ],
+  "name": "layout/desktop-collapsed",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "09325427-C178-43A6-AA05-216060DFF0C8",
+        "version": 1
+      }
+    }
+  }
+}

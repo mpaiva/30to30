@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "85477FEC-23E7-4A9A-8BD4-98BDD0B2D00D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 163,
+    "width": 163,
+    "x": 438,
+    "y": 909
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E6CAFD99-2C91-4817-B2DF-515CD60A6787"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37884F82-EBDC-48EA-9DBA-9722C5338150"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3D3E565-65B7-403C-B7A9-350860D59BD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E79AD2FC-EA0A-49D4-A094-4E9A31B52C23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E19B175-A154-4D92-B99E-E341534B443A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56424B2C-F25D-4D8A-949B-F920567ACC19"
+    }
+  ],
+  "name": "forms/select/list",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "EB6CDCEB-4E4F-4244-8C30-80ACA35FCAE2",
+        "version": 1
+      }
+    }
+  }
+}

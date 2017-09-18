@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi4xNzs/R0hJSktPU1RbX2NmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QI1RoaXMgaXMgYW4gZXhhbXBsZSBvZiBzdWNjZXNzIHRleHQu0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAFYAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVWTlNLZXJuV05TQ29sb3LWIyQlJicKKCkqKSwtXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNfEBJOU1dyaXRpbmdEaXJlY3Rpb25cTlNUZXh0QmxvY2tzXxAfTlNUaWdodGVuaW5nRmFjdG9yRm9yVHJ1bmNhdGlvbiNAJgAAAAAAAIAJEAGACSM/qZmZoAAAAIAL0hIKLzCggArSMjM0NVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiNDZYTlNPYmplY3TSMjM4OV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozg6Nl8QEE5TUGFyYWdyYXBoU3R5bGXSCjw9Pl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgpAQ0aiQUKADoAPokRFgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQC4AAAAAAABYT3BlblNhbnPSMjNMTV8QE05TTXV0YWJsZURpY3Rpb25hcnmjTE42XE5TRGljdGlvbmFyedIyM1BRXxAQTlNGb250RGVzY3JpcHRvcqJSNl8QEE5TRm9udERlc2NyaXB0b3Ijv9XCj2AAAADUVVZXClgqWVpVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4xMTc2NDcwNTg4IDAuNTE3NjQ3MDU4OCAwLjc3MjU0OTAxOTYAgBaAGNJcCl1eVE5TSUQQAYAX0jIzYGFcTlNDb2xvclNwYWNlomI2XE5TQ29sb3JTcGFjZdIyM2RlV05TQ29sb3KiZDbSMjNOZ6JONtIyM2lqXxASTlNBdHRyaWJ1dGVkU3RyaW5noms2XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W5vVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAKsAsgC6AMUAygDMAM4A0ADSANcA2QDbAN0A3wDhAPQBFgEdASUBMgFHAVIBZwF0AZYBnwGhAaMBpQGuAbABtQG2AbgBvQHIAdEB2QHcAeUB6gIEAggCGwIgAj0CPwJBAkgCSwJNAk8CUgJUAlYCWAJuAoQCjQKWApsCsQK1AsICxwLaAt0C8AL5AwIDCAMVAyoDVANWA1gDXQNiA2QDZgNrA3gDewOIA40DlQOYA50DoAOlA7oDvQPSA+QD5wPsAAAAAAAAAgEAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA+4="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2B8180CC-0405-48BF-813E-50CB12E494A8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 227,
+    "x": -1423,
+    "y": 818
+  },
+  "glyphBounds": "{{0, 0}, {226, 20}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "This is an example o",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "8CBCE738-6CBE-4235-B40E-2E5D07539FE2"
+  },
+  "textBehaviour": 0
+}

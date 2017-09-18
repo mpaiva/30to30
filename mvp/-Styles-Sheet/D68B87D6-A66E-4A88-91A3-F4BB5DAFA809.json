@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGiIlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIERIYJSYnKCkqLjY3ODk6QUVPUlVYX2Nnamx4eXyAhFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAHoADgCBbU3ViLWhlYWRpbmfSEwwUF1pOUy5vYmplY3RzohUWgASAG4Ad0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmACoASgBaAGlZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIz/JmZmgAAAA0gwrLC1fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTGRMMLzI1ojAxgAyADaIzNIAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AgAAAAAAAAWE9wZW5TYW5z0js8PT5aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjPT9AXE5TRGljdGlvbmFyeVhOU09iamVjdNI7PEJDXxAQTlNGb250RGVzY3JpcHRvcqJEQF8QEE5TRm9udERlc2NyaXB0b3LVRkdISQxKS0pNTlpOU1RhYlN0b3BzXxASTlNXcml0aW5nRGlyZWN0aW9uXE5TVGV4dEJsb2Nrc18QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb26AExABgBMjP6mZmaAAAACAFdITDFBRoIAU0js8U1RXTlNBcnJheaJTQNI7PFZXXxAQTlNQYXJhZ3JhcGhTdHlsZaJWQNRZWlsMXEtdXlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjE4NDMxMzcyNTUgMC4yNTA5ODAzOTIyIDAuMzEzNzI1NDkwMgCAF4AZ0mAMYWJUTlNJRBABgBjSOzxkZVxOU0NvbG9yU3BhY2WiZkBcTlNDb2xvclNwYWNl0js8aGlXTlNDb2xvcqJoQNI7PD9roj9A0xkTDG1yJKQbHB0egAWABoAHgAikcyEiI4AcgAqAEoAWgBojAAAAAAAAAADSOzx6e15OU011dGFibGVBcnJheaN6U0DSfQx+f1dOUy5kYXRhRAoAAQGAH9I7PIGCXU5TTXV0YWJsZURhdGGjgYNAVk5TRGF0YdI7PIWGXxASTlNBdHRyaWJ1dGVkU3RyaW5noodAXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0YqLVHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBqAHMAhQCSAJkAmwCdAJ8AoQCtALIAvQDAAMIAxADGAM0A1QDaANwA3gDgAOIA5wDpAOsA7QDvAPEA+AEaAS0BNQE+AUMBYAFiAWQBawFuAXABcgF1AXcBeQF7AZEBpwGwAbkBvgHJAdIB6AHsAfkCAgIHAhoCHQIwAjsCRgJbAmgCigKMAo4CkAKZApsCoAKhAqMCqAKwArMCuALLAs4C1wLdAuoC/wMpAysDLQMyAzcDOQM7A0ADTQNQA10DYgNqA20DcgN1A3wDgQODA4UDhwOJA44DkAOSA5QDlgOYA6EDpgO1A7kDvgPGA8sDzQPSA+AD5APrA/AEBQQIBB0ELwQyBDcAAAAAAAACAQAAAAAAAACMAAAAAAAAAAAAAAAAAAAEOQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D68B87D6-A66E-4A88-91A3-F4BB5DAFA809",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11,
+    "width": 49,
+    "x": -1273,
+    "y": 391
+  },
+  "glyphBounds": "{{0, 0}, {49, 11}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sub-heading 6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "A907D71A-730F-483A-98CB-8867129BCD28"
+  },
+  "textBehaviour": 0
+}

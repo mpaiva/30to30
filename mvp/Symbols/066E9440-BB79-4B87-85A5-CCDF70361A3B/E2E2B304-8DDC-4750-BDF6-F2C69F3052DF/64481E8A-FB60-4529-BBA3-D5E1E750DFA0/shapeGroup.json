@@ -1,0 +1,162 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "64481E8A-FB60-4529-BBA3-D5E1E750DFA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "4C2AB53A-7587-4FAC-AC96-0B21F8DF25AA"
+    }
+  ],
+  "name": "Oval 4",
+  "nameIsFixed": false,
+  "originalObjectID": "64481E8A-FB60-4529-BBA3-D5E1E750DFA0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9254901960784314,
+          "green": 0.9176470588235294,
+          "red": 0.9058823529411765
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/683f16c514d0b6699832a629e0b1e55d10949735",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRygPHq_GWCVbuuiXgRvtLtJO7MNe7ejebkhC-XPvBqWoJ4r4ZmpA7WWjA",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJe6Iz6uz5n3LjFbLWCY5y6ij1IAgm2GNTsOm8rhwZo_-LrVXcjX6Uvk",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGaep5s1S6bGezUCW3ZHXzNkwdX4cfmmK4zrKGZcMgrTYKg8gXC_HX83vz",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIioim6mrdTro1-igDc4HKamgK4Pb5QVKsNELbxTfGxV-IPe-3OzmUQCm-",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRj7Udxp6hXDkfN3F_EH_m7h_vX_iEveoJaEBRBP7s5YPtr_iIv8JTWaA",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQemQ-OxMnkJQqPlHXZNgp5Ox8cQLTXW0y2cccaKY2VS7d4SMZPMBdlKhS",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQySNmnoPkFpa5fODXyfXY_wcuHTKlIRS1rdlClkzgLaXGStec2N3VfMseb",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxdoCT0F-FpJnu__sTq4dWTazZmRMX9prOm1354sXUusuroPsUE7Bs26tQ",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPpS4iihPh3F6rxFTvWgRdQIQtI1QCOtZQ8ffV9wz5JCiEMkUmfi1VyYn",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd68_N9cxUo4dR-58qJZa2UGM774n3ApwiPmVtW_d7Qo38zHk6ta89VtJT",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8vD18OO_C2uuDFg5js-Ewb6KB3biSUyzMgq5WF2nqvOHSFFeJfHEgdPo",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpBhRr6UjoxTJxg6pb5YSscgZ5CuMFe-jMjZr2Q2dGnpqqw3djRzfrGlKh",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFkJzfEIw21iko0ZVTDnBbe_jpr41grPZzu-b3Rimq5uLTsxsVPxCl-I8",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_0YjJcpn093sSsNsxPteW1uIbBjGFs-caz9-58bx5jXiL2RdbuVrCZGo",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP2s4yFpqw15gjLgRhOqHbKqaQTmRe1N8Day4k4e1D_8ZiN4gRTC78JWMe",
+            "type": "src"
+          },
+          {
+            "link": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQnVwiSEtW0tMqdDRuEjF6BaOxYrZuw-_kC8ghCsCPv-vdC-buEY9Vyvs",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "windingRule": 1
+}

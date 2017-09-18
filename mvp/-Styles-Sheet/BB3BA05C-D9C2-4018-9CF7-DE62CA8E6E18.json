@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PklMT1NaXmJlZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1pDT01QT05FTlRT0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQAdIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNASQAAAAAAAF8QEkhlbHZldGljYU5ldWUtQm9sZNI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y1j9AQUJDCkRFIkVHSF8QEk5TUGFyYWdyYXBoU3BhY2luZ1pOU1RhYlN0b3BzXxASTlNXcml0aW5nRGlyZWN0aW9uXE5TVGV4dEJsb2Nrc18QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb24jQCYAAAAAAACAEoASIz+pmZmgAAAAgBTSEgpKS6CAE9I0NU1OV05TQXJyYXmiTTnSNDVQUV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1BSOV8QEE5TUGFyYWdyYXBoU3R5bGXUVFVWClciWFlVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4xODQzMTM3MjU1IDAuMjUwOTgwMzkyMiAwLjMxMzcyNTQ5MDIAgBaAGNJbClxdVE5TSUQQAYAX0jQ1X2BcTlNDb2xvclNwYWNlomE5XE5TQ29sb3JTcGFjZdI0NWNkV05TQ29sb3KiYznSNDU4ZqI4OdI0NWhpXxASTlNBdHRyaWJ1dGVkU3RyaW5nomo5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W1uVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJAAlwCfAKoArwCxALMAtQC3ALwAvgDAAMIAxADGAPEBEwEmAS4BMAE1AVIBVAFWAV0BYAFiAWQBZwFpAWsBbQGDAZkBogG3AbwBxwHQAeYB6gH3AgACBQIYAhsCLgI7AlACWwJwAn0CnwKoAqoCrAK1ArcCvAK9Ar8CxALMAs8C1ALuAvIDBQMOAxQDIQM2A2ADYgNkA2kDbgNwA3IDdwOEA4cDlAOZA6EDpAOpA6wDsQPGA8kD3gPwA/MD+AAAAAAAAAIBAAAAAAAAAG8AAAAAAAAAAAAAAAAAAAP6"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BB3BA05C-D9C2-4018-9CF7-DE62CA8E6E18",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 364,
+    "x": -1498,
+    "y": 1959
+  },
+  "glyphBounds": "{{0, 0}, {362, 49}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "COMPONENTS",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "544A7C98-D2A0-4A78-8B79-BC60751B1C3E"
+  },
+  "textBehaviour": 0
+}

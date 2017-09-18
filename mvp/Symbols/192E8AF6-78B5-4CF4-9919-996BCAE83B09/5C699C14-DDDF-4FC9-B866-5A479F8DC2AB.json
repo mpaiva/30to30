@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTs/Q0tMTU5PU1dZVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADYfAN0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjE4NDMxMzcyNTUgMC4yNTA5ODAzOTIyIDAuMzEzNzI1NDkwMgAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHTNgo3ODk6Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnSAAIAMEALSLC08PV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozw+MV8QEE5TUGFyYWdyYXBoU3R5bGXSCkBBQl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMREgpER0qiRUaAD4AQokhJgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABbRm9udEF3ZXNvbWXSLC1QUV8QE05TTXV0YWJsZURpY3Rpb25hcnmjUFIxXE5TRGljdGlvbmFyedIsLVRVXxAQTlNGb250RGVzY3JpcHRvcqJWMV8QEE5TRm9udERlc2NyaXB0b3LSLC1SWKJSMdIsLVpbXxASTlNBdHRyaWJ1dGVkU3RyaW5nolwxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V9gVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAIQAiwCTAJ4AogCkAKYAqACsAK4AsACyALQAvADPAPEA+gEAAQ0BIgFMAU4BUAFSAVcBXAFeAWABZQFwAXkBhgGJAZYBnwGkAawBrwG2AcEBzQHPAdEB0wHYAfIB9gIJAg4CKwItAi8CNgI5AjsCPQJAAkICRAJGAlwCcgJ7AocCjAKiAqYCswK4AssCzgLhAuYC6QLuAwMDBgMbAy0DMAM1AAAAAAAAAgEAAAAAAAAAYQAAAAAAAAAAAAAAAAAAAzc="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "5C699C14-DDDF-4FC9-B866-5A479F8DC2AB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 13,
+    "x": 10,
+    "y": 8
+  },
+  "glyphBounds": "{{0, 0}, {12, 15}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "fa-icon",
+  "nameIsFixed": true,
+  "originalObjectID": "5C699C14-DDDF-4FC9-B866-5A479F8DC2AB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "0238A88B-8375-476B-82C6-512B858103BE"
+  },
+  "textBehaviour": 0
+}

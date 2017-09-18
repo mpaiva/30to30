@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaWpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiwvNTg8REVGR0hMUFFYXGBjZVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QGklubGluZSBTdHJvbmcgLSBBdWhvciBOYW1l0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAFYAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVWTlNLZXJuV05TQ29sb3LVIyQlJgonKCcqK1pOU1RhYlN0b3BzXxASTlNXcml0aW5nRGlyZWN0aW9uXE5TVGV4dEJsb2Nrc18QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb26ACRABgAkjP6mZmaAAAACAC9ISCi0uoIAK0jAxMjNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojI0WE5TT2JqZWN00jAxNjdfEBBOU1BhcmFncmFwaFN0eWxlojY00go5OjtfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKPUBDoj4/gA6AD6JBQoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AuAAAAAAAAXU9wZW5TYW5zLUJvbGTSMDFJSl8QE05TTXV0YWJsZURpY3Rpb25hcnmjSUs0XE5TRGljdGlvbmFyedIwMU1OXxAQTlNGb250RGVzY3JpcHRvcqJPNF8QEE5TRm9udERlc2NyaXB0b3Ijv9mZmaAAAADUUlNUClUoVldVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4xODQzMTM3MjU1IDAuMjUwOTgwMzkyMiAwLjMxMzcyNTQ5MDIAgBaAGNJZClpbVE5TSUQQAYAX0jAxXV5cTlNDb2xvclNwYWNlol80XE5TQ29sb3JTcGFjZdIwMWFiV05TQ29sb3KiYTTSMDFLZKJLNNIwMWZnXxASTlNBdHRyaWJ1dGVkU3RyaW5nomg0XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WtsVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAKIAqQCxALwAwQDDAMUAxwDJAM4A0ADSANQA1gDYAOsBDQEUARwBJwEyAUcBVAF2AXgBegF8AYUBhwGMAY0BjwGUAZ8BqAGwAbMBvAHBAdQB1wHcAfkB+wH9AgQCBwIJAgsCDgIQAhICFAIqAkACSQJXAlwCcgJ2AoMCiAKbAp4CsQK6AsMCyQLWAusDFQMXAxkDHgMjAyUDJwMsAzkDPANJA04DVgNZA14DYQNmA3sDfgOTA6UDqAOtAAAAAAAAAgEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAA68="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8D33EB53-1D6D-42B7-8488-F8C9D893F6F2",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 193,
+    "x": -1435,
+    "y": 1505
+  },
+  "glyphBounds": "{{0, 0}, {193, 20}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Inline Strong - Auho",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2CC6A868-3901-45EB-A0CE-2408FC3153DA"
+  },
+  "textBehaviour": 0
+}

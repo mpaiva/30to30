@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "824301E1-702E-4318-8F26-D45C88217CA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 317,
+    "x": 1292,
+    "y": 881
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "forms/password",
+  "nameIsFixed": true,
+  "overrides": {
+    "10078177-18E0-4131-8724-1B098D70F8D5": "Password",
+    "2ECC6630-02DE-4B88-BF1D-CACBC880556D": {
+      "symbolID": "919D7A33-3611-4185-80E4-D06A5E77E6FA"
+    },
+    "3AA30B8B-7E97-454C-8A1C-91724B0D00E9": "*",
+    "BFF67E19-FFC2-46E5-AD61-1992F7CDB726": "************",
+    "E44AD543-3354-41B3-88BF-7FA05372D52C": {
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B74F065A-6138-48B6-8960-CCD7909796C4",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "6A3036FA-ED12-4667-95DD-692D3FB29614",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
