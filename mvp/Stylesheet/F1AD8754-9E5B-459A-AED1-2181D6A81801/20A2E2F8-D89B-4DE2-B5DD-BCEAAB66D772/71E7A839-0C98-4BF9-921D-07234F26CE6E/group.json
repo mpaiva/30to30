@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "71E7A839-0C98-4BF9-921D-07234F26CE6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 725,
+    "width": 1129,
+    "x": 1219,
+    "y": 1744
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B7820285-280B-4E7E-A3B3-744A38101365"
+    },
+    {
+      "class": "text",
+      "id": "1EBA6A4B-7819-4564-AC47-6718280E9FDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F39FDF22-AAD7-4081-B562-02B866C0796A"
+    },
+    {
+      "class": "text",
+      "id": "2D29A57D-A0C0-4425-ABAE-73C1EE910A8D"
+    },
+    {
+      "class": "text",
+      "id": "30D822A5-27C2-4E40-810C-72129A127CB4"
+    }
+  ],
+  "name": "Carousels",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "68D300E8-C755-4474-9784-34C299D4D88B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 279,
+    "width": 792,
+    "x": 1218,
+    "y": 396
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DFDE23DF-514D-49BE-A302-6C3DC1B7625D"
+    },
+    {
+      "class": "text",
+      "id": "8A6FFDAC-2BF1-4D76-821A-30D3785CB367"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE21ECB4-319E-4D2B-BD9A-076F24525831"
+    },
+    {
+      "class": "text",
+      "id": "EBFE8893-8A8A-4924-82F6-D50F4F119BC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE1681A4-0151-4C10-B182-3887D9846F22"
+    },
+    {
+      "class": "text",
+      "id": "89C7E635-B3E5-4D22-A1CE-72BFB0F29715"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95A62A82-C7E2-4816-AA4B-A7368B161AA5"
+    },
+    {
+      "class": "text",
+      "id": "74077C15-B3F2-48F5-AADA-E2D1EE8CCCBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CE60441-E065-45A7-86D9-650262E28CBF"
+    },
+    {
+      "class": "text",
+      "id": "A1171365-A810-4DE7-BE4F-4CB3C92AC23D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "332C66E3-64CC-4C0D-9D67-6FF5B4067199"
+    },
+    {
+      "class": "text",
+      "id": "E904BCAA-7F8D-4C14-942F-7C5B1B28F213"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CEFED27-10BF-4C11-9F7B-36A5EA053B11"
+    },
+    {
+      "class": "text",
+      "id": "7F622517-71A5-40C9-BF87-2BACF330151C"
+    },
+    {
+      "class": "text",
+      "id": "AED0751D-0FE3-447A-BC0F-E2FA8C51C68B"
+    }
+  ],
+  "name": "Checkboxes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4D1324F6-A055-426C-852E-9557761DFAA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 192,
+    "x": 0,
+    "y": 1333
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C1776CB8-98A1-4D6F-A41F-2E9A41ED381E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71C54D0E-C2AA-464C-BBFF-8A41715FEDA0"
+    }
+  ],
+  "name": "Pagers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
