@@ -42,5 +42,11 @@
   "style": {
     "sharedObjectID": "5D49C43E-9957-4823-94D3-014FD951C1E8"
   },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "windingRule": 1
 }

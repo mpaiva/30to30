@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 69,
   "do_objectID": "34CA236C-0D71-4B1D-822A-1F598BFEAF11",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 60,
     "width": 264,
-    "x": 79668,
-    "y": -1581
+    "x": 13457,
+    "y": 227
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -68,8 +68,8 @@
       "id": "0618E71F-9F67-4D8F-98C1-B337149FB215"
     }
   ],
-  "name": "event-log",
-  "nameIsFixed": false,
+  "name": "list-group/event-log",
+  "nameIsFixed": true,
   "originalObjectID": "34CA236C-0D71-4B1D-822A-1F598BFEAF11",
   "resizesContent": false,
   "resizingConstraint": 63,

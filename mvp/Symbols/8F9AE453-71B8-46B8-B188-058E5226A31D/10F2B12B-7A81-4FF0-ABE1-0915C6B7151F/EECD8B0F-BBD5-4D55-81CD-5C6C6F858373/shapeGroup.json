@@ -25,15 +25,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "oval",
       "id": "1499A4CC-476A-42DA-AE6B-B56A87F6756C"
-    },
-    {
-      "class": "shapePath",
-      "id": "0558783B-A6BB-4E53-939A-E73BB8278071"
     }
   ],
   "name": "Combined Shape",
@@ -122,6 +118,27 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 59.79399,
+            "enabled": 1,
+            "modelID": "constraint_a173ec14-4424-4596-83dc-abbaa704ae3e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 59.79399
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_fad6875a-f22e-4b82-8c73-15d0fdd8df3c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
   },
   "windingRule": 1
 }

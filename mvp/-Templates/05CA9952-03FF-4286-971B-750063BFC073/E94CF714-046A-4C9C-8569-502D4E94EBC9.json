@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "topnav",
   "nameIsFixed": true,
+  "originalObjectID": "B2A3C48A-2866-41B2-8796-E434B70D19F9",
   "overrides": {
   },
   "resizingConstraint": 63,
@@ -44,6 +45,10 @@
   },
   "symbolID": "74140A95-561F-4825-AFCB-BFEAF9BEE8F5",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.invisionlabs.library": {
       "original-layer": {
         "originalID": "98792BDA-E750-4A40-B38B-7F93805FE72E",

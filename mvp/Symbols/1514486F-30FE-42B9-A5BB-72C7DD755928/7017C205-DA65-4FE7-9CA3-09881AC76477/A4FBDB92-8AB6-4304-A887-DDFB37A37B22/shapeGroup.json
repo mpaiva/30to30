@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -34,7 +34,7 @@
   ],
   "name": "bg",
   "nameIsFixed": true,
-  "originalObjectID": "16B94402-BFB4-4043-9D48-375D6A24627A",
+  "originalObjectID": "A4FBDB92-8AB6-4304-A887-DDFB37A37B22",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

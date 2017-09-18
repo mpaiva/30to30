@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 24,
   "do_objectID": "8F9AE453-71B8-46B8-B188-058E5226A31D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 60,
-    "x": 160,
-    "y": 1742
+    "x": 13932,
+    "y": 320
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,11 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "10F2B12B-7A81-4FF0-ABE1-0915C6B7151F"
+    },
+    {
+      "class": "group",
+      "id": "FAE8302F-1431-41F2-B4C1-7E2A8343C225"
     }
   ],
   "name": "logos/logo-dark-60",

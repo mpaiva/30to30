@@ -37,7 +37,7 @@
   "name": "fa-star",
   "nameIsFixed": true,
   "originalObjectID": "45DEECA2-BA70-4574-A5B6-536AD583996D",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -56,7 +56,7 @@
           "red": 0.1843137254901961
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,

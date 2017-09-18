@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -32,7 +32,7 @@
   ],
   "name": "menu-button",
   "nameIsFixed": false,
-  "originalObjectID": "B513017B-A359-4000-9D26-45B8C7D25A3A",
+  "originalObjectID": "20B1DD95-13D3-430A-9660-E16BCADD9E93",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

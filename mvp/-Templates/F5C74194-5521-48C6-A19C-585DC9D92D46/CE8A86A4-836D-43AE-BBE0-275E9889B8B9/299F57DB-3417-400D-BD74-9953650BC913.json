@@ -24,12 +24,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 2,
+  "masterInfluenceEdgeMaxYPadding": 4,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "navbar/mini-header",
   "nameIsFixed": false,
+  "originalObjectID": "774FB9C2-6223-4535-B5DB-0F6CADA5CBF5",
   "overrides": {
     "DC91A18A-BB47-47BD-BA39-AFB972E8C69D": {
       "symbolID": "45C61480-F955-415F-B6AC-7F5E020A01B2"
@@ -47,6 +48,10 @@
   },
   "symbolID": "03133F10-B60E-453A-8644-7504A307E6EE",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.invisionlabs.library": {
       "original-layer": {
         "originalID": "6950296B-7165-453C-AF31-22502CB0D1D3",

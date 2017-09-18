@@ -37,7 +37,7 @@
   "name": "fa-unicode",
   "nameIsFixed": true,
   "originalObjectID": "152285CF-0F72-4DD8-9AF1-DD31996831CD",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -56,7 +56,7 @@
           "red": 0.1843137254901961
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,

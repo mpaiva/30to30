@@ -25,15 +25,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "oval",
       "id": "551B0B14-90D5-4F81-88BC-A0F7F4BC7EDE"
-    },
-    {
-      "class": "shapePath",
-      "id": "BBDEA626-7A81-43BF-BB40-715BC0C3F997"
     }
   ],
   "name": "Combined Shape",

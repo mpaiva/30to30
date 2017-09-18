@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 27,
   "do_objectID": "066E9440-BB79-4B87-85A5-CCDF70361A3B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 50,
     "width": 250,
-    "x": 78314,
-    "y": -1581
+    "x": 13457,
+    "y": 320
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,7 +52,7 @@
       "id": "E2E2B304-8DDC-4750-BDF6-F2C69F3052DF"
     }
   ],
-  "name": "Care Team Row",
+  "name": "list-group/item-normal",
   "nameIsFixed": true,
   "originalObjectID": "066E9440-BB79-4B87-85A5-CCDF70361A3B",
   "resizesContent": false,

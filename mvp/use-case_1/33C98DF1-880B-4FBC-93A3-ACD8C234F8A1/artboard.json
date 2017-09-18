@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "33C98DF1-880B-4FBC-93A3-ACD8C234F8A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 768,
+    "x": -642,
+    "y": -10
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      9,
+      71,
+      134,
+      196,
+      259,
+      321,
+      384,
+      446,
+      509,
+      571,
+      634,
+      696,
+      759
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6AAC1B76-34B0-471D-BAE1-1F30ACB9F260"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C65DE08-76CB-49A4-B5BA-8544F242FD15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7454034-E5A6-4A7E-8813-176E0B04B3EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD4194D5-9317-4171-8D28-0E9CF95238DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DE35BB7-7FEE-47B0-91BD-356031075F26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDB7882C-3AEA-4AEC-B644-2DEE07792C15"
+    },
+    {
+      "class": "group",
+      "id": "2B45A1D0-922B-460E-8C2C-C16C99628939"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 32.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 9,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 750
+  },
+  "name": "Small Devices: Tablets ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

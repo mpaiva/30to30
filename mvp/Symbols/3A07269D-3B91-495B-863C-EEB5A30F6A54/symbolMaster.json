@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 6,
   "do_objectID": "3A07269D-3B91-495B-863C-EEB5A30F6A54",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 34,
     "width": 150,
-    "x": 61211,
-    "y": -1581
+    "x": 356,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -50,7 +50,7 @@
   ],
   "name": "Button/nonSelected",
   "nameIsFixed": false,
-  "originalObjectID": "48A3454D-CCB3-420A-9832-AA3B58781825",
+  "originalObjectID": "3A07269D-3B91-495B-863C-EEB5A30F6A54",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

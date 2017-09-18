@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 2,
-  "masterInfluenceEdgeMaxYPadding": 3,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "logo",
@@ -45,6 +45,25 @@
   },
   "symbolID": "23795E78-BBF9-4446-AA97-A253671C9A06",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 34,
+            "enabled": 1,
+            "modelID": "constraint_da15a375-e0af-4dd1-bbf0-67a46392ee53",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 34
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_f6cfc2b8-e36a-49d8-b086-bfcae10175f1",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
     "com.invisionlabs.library": {
       "original-layer": {
         "originalID": "49310F47-C370-4D06-BB0C-588A4471EF3A",

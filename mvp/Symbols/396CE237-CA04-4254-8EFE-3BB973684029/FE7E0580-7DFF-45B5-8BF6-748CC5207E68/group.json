@@ -23,15 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "B982D2A8-66CF-4333-9FC8-3A01C6ADFA14"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7B7DAABD-6F07-469C-A217-4F4F7669F0FA"
     }
   ],
   "name": "vh-logo-circle",
@@ -54,5 +50,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

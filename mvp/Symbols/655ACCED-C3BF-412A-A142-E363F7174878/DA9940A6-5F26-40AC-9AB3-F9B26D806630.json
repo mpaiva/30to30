@@ -37,7 +37,7 @@
   "name": "fa-bars",
   "nameIsFixed": true,
   "originalObjectID": "DA9940A6-5F26-40AC-9AB3-F9B26D806630",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -56,7 +56,7 @@
           "red": 0.1843137254901961
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,

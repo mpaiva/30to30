@@ -44,6 +44,10 @@
   },
   "symbolID": "E4227680-C944-4D60-A46D-7A4F9BEAC97B",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.invisionlabs.library": {
       "original-layer": {
         "originalID": "F6FAC3C2-4C1D-4E3A-9E98-5D6D2A3802D3",

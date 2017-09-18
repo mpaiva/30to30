@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -40,7 +40,7 @@
   ],
   "name": "container",
   "nameIsFixed": true,
-  "originalObjectID": "2041891B-3414-4FA4-964A-E3BAE8FAA15E",
+  "originalObjectID": "7017C205-DA65-4FE7-9CA3-09881AC76477",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

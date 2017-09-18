@@ -30,6 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "navbar/side-menu-featured",
   "nameIsFixed": false,
+  "originalObjectID": "A987AF2C-F941-4277-8953-FACC8F5FDB96",
   "overrides": {
   },
   "resizingConstraint": 63,
@@ -44,6 +45,10 @@
   },
   "symbolID": "E788E861-2BA1-43D5-8829-21866B98893C",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.invisionlabs.library": {
       "original-layer": {
         "originalID": "C737B250-76F8-4D90-B689-1EE46ADC759D",

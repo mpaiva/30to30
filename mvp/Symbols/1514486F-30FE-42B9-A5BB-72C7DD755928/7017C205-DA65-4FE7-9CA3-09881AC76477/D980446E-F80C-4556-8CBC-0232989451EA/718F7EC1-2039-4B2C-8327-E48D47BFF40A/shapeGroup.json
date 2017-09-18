@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -34,7 +34,7 @@
   ],
   "name": "spacer",
   "nameIsFixed": true,
-  "originalObjectID": "59CE2AA1-F332-4543-8E13-97C7B3BBF8E0",
+  "originalObjectID": "718F7EC1-2039-4B2C-8327-E48D47BFF40A",
   "resizingConstraint": 36,
   "resizingType": 1,
   "rotation": 0,

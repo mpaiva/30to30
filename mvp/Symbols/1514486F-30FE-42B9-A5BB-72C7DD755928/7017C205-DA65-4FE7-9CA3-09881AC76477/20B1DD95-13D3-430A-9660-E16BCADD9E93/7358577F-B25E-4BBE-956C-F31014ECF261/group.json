@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -32,7 +32,7 @@
   ],
   "name": "icon",
   "nameIsFixed": false,
-  "originalObjectID": "987DABF4-F8CF-4CBA-BA70-DB175F7D3910",
+  "originalObjectID": "7358577F-B25E-4BBE-956C-F31014ECF261",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

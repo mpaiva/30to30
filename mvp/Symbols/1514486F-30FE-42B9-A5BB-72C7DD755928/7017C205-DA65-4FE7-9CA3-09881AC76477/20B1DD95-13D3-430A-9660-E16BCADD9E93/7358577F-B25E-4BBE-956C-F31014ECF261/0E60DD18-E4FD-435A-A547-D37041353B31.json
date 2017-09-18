@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 0,
   "name": "menu-icon",
   "nameIsFixed": true,
-  "originalObjectID": "2F070D2E-EF40-4F47-A647-7779A710A0C0",
+  "originalObjectID": "0E60DD18-E4FD-435A-A547-D37041353B31",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -56,7 +56,7 @@
           "red": 0.1843137254901961
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,

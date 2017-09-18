@@ -58,6 +58,27 @@
         "blue": 0.7725490196,
         "green": 0.5176470588,
         "red": 0.1176470588
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7725490196,
+        "green": 0.2521199648134509,
+        "red": 0.1176470588000001
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.67,
+        "green": 0.2144000000000001,
+        "red": 0.1005
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.3200000000000002,
+        "red": 0.15
       }
     ],
     "gradients": [
@@ -113,14 +134,14 @@
     ]
   },
   "pages": [
+    "use-case_1",
     "-Templates",
     "-Styles-Sheet",
-    "-Styles",
     "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
-      "metadata": "{\"syncAll\":true,\"projectId\":10369282,\"hasSynced\":true,\"hasProjectIdChanged\":false,\"publicLink\":\"https://invis.io/PZAKVZVGR\"}"
+      "metadata": "{\"hasSynced\":true,\"hasProjectIdChanged\":false,\"projectId\":12055250,\"publicLink\":\"https:\\/\\/invis.io\\/PZAKVZVGR\",\"resolution\":2,\"syncAll\":true}"
     }
   }
 }

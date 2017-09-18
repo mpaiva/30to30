@@ -37,7 +37,7 @@
   "name": "fa-icon",
   "nameIsFixed": true,
   "originalObjectID": "8B3522A5-64E0-48FF-8C29-9348A68E7C42",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -56,7 +56,7 @@
           "red": 0.1843137254901961
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,

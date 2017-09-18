@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "oval",
@@ -34,7 +34,7 @@
   ],
   "name": "vh-oval",
   "nameIsFixed": true,
-  "originalObjectID": "C25C3931-B180-45D6-A713-D18D5BA26C3D",
+  "originalObjectID": "29BBA8DD-2D1C-4FF7-AB83-7261E8338A6A",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -65,6 +65,7 @@
         "thickness": 0.5
       }
     ],
+    "do_objectID": "C4C8F5E7-EE4E-45E3-8B16-A7440D0D8C4C",
     "endDecorationType": 0,
     "fills": [
       {
@@ -76,11 +77,11 @@
           "green": 0.8549019607843137,
           "red": 0.8196078431372549
         },
-        "fillType": 4,
+        "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 1,
-          "from": "{0.0025781251024454832, 0.49750000238418579}",
+          "from": "{0.5, 0}",
           "gradientType": 0,
           "shouldSmoothenOpacity": false,
           "stops": [
@@ -89,9 +90,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.4588235294117647,
-                "green": 0.8117647058823529,
-                "red": 0.6823529411764706
+                "blue": 0.3137254901960784,
+                "green": 0.2509803921568628,
+                "red": 0.1843137254901961
               },
               "position": 0
             },
@@ -100,24 +101,19 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.6392156862745096,
-                "green": 0.7372549019607844,
-                "red": 0.4235294117647059
+                "blue": 0.3137254901960784,
+                "green": 0.2509803921568628,
+                "red": 0.1843137254901961
               },
               "position": 1
             }
           ],
-          "to": "{1.0125781297683716, 0.49750000238418579}"
-        },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/4360b964c0eea9a9ad28ca8315bc5523268482df",
-          "_ref_class": "MSImageData"
+          "to": "{0.5, 1}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],
